@@ -228,7 +228,7 @@ export default function IntroLoader({
     <div
       id="anim-container"
       ref={scope}
-      className="relative flex h-screen w-full flex-col items-center justify-center overflow-hidden bg-black font-sans text-white"
+      className="relative flex h-[100svh] w-full flex-col items-center justify-center overflow-hidden bg-black font-sans text-white"
     >
       <motion.div
         id="sequence-wrapper"
@@ -414,7 +414,7 @@ export default function IntroLoader({
                         delay: 0.1,
                       }}
                     >
-                      naumanjutt@gmail.com
+                      naumanjutt69@gmail.com
                     </motion.div>
                   </div>
                 </div>
@@ -446,15 +446,15 @@ function LetterBox({ i, char }: { i: number; char: string }) {
         exit={
           !isKept
             ? {
-                opacity: [1, 0, 0],
-                y: [0, -40, -100],
-                scale: [1, 1.2, 0.5],
-                filter: ["blur(0px)", "blur(4px)", "blur(12px)"],
-                transition: {
-                  duration: exitDuration,
-                  ease: "easeIn",
-                },
-              }
+              opacity: [1, 0, 0],
+              y: [0, -40, -100],
+              scale: [1, 1.2, 0.5],
+              filter: ["blur(0px)", "blur(4px)", "blur(12px)"],
+              transition: {
+                duration: exitDuration,
+                ease: "easeIn",
+              },
+            }
             : undefined
         }
       >

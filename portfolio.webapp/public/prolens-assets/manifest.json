@@ -1,0 +1,680 @@
+﻿[
+    {
+        "type":  "video",
+        "file":  "prolens-assets/videos/astra-template-preview.mp4",
+        "source":  "https://framerusercontent.com/assets/GPlNflJJdrH7VJRDJk6ZaCckQ.mp4",
+        "bytes":  994905
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-person-02.png",
+        "source":  "https://framerusercontent.com/images/0lITgM1tKsAjxA1UaabdkOUlKnI.png",
+        "bytes":  6428
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-logo-04.svg",
+        "source":  "https://framerusercontent.com/images/0MtlB6O8ggkf1rH5UD65HJpG6o.svg",
+        "bytes":  510
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/carousel-arrow-right.svg",
+        "source":  "https://framerusercontent.com/images/11KSGbIZoRSg4pjdnUoif6MKHI.svg?arrow=right",
+        "bytes":  215
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/about-message-avatar.png",
+        "source":  "https://framerusercontent.com/images/1EzykMIw5TewvtPXGyJ2wS8CIo.png",
+        "bytes":  562
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-avatar-base.png",
+        "source":  "https://framerusercontent.com/images/1g8TdYxWd34UQ0rT18tma1NcSUo.png",
+        "bytes":  699
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/blog-author-02.png",
+        "source":  "https://framerusercontent.com/images/4SbEtm6IVdY2Sz5rBOjRy45olI.png",
+        "bytes":  39539
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/carousel-arrow-left.svg",
+        "source":  "https://framerusercontent.com/images/6tTbkXggWgQCAJ4DO2QEdXXmgM.svg?arrow=left",
+        "bytes":  214
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-avatar-01.png",
+        "source":  "https://framerusercontent.com/images/7i0xNXHp33AuJeqRU3E4Hib17B8.png",
+        "bytes":  12723
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/career-photo-03.png",
+        "source":  "https://framerusercontent.com/images/8S0SqoU0WbwP9dgtbt95c7eJy8.png",
+        "bytes":  97242
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-company-logo-04.svg",
+        "source":  "https://framerusercontent.com/images/Ad6zJmiPKpTTZTcxOh0cKxUezps.svg",
+        "bytes":  618
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-portrait-03.png",
+        "source":  "https://framerusercontent.com/images/ANFuRnJlDSqsab9Pdbj8E0qXKXs.png",
+        "bytes":  3623
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-preview-03.png",
+        "source":  "https://framerusercontent.com/images/b0IVyRAs33pyp8htdy27VEvNtE.png",
+        "bytes":  84020
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-avatar-04.png",
+        "source":  "https://framerusercontent.com/images/bFjBRUrcZ9sylwN6tkORdcZttqA.png",
+        "bytes":  6374
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-logo-02.svg",
+        "source":  "https://framerusercontent.com/images/BSHVtVZhnGbfszi8z3aZxQOi4U.svg",
+        "bytes":  11325
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/blog-preview-02.png",
+        "source":  "https://framerusercontent.com/images/CMmT8DwlIAW7NN43qMo87x2slP4.png",
+        "bytes":  115381
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/prolens-apple-touch-icon.png",
+        "source":  "https://framerusercontent.com/images/ddeeS43q4dzHt0P8NKRdqdd29qE.png",
+        "bytes":  2654
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/blog-preview-01.png",
+        "source":  "https://framerusercontent.com/images/dkEkHFLxM0xFafRUG7p2jn5U.png",
+        "bytes":  135786
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-preview-01.png",
+        "source":  "https://framerusercontent.com/images/dZEyDOTutKqTkajgGEimf9k7MaU.png",
+        "bytes":  116208
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-logo-03.svg",
+        "source":  "https://framerusercontent.com/images/e9W80ngSdhzWJ8WxdW5ziabXY.svg",
+        "bytes":  9013
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-preview-01.png",
+        "source":  "https://framerusercontent.com/images/eS6mtsGtHoquVG8N6zkcL1pcEs.png",
+        "bytes":  154372
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-preview-02.png",
+        "source":  "https://framerusercontent.com/images/evKtH3HNrH5Ax6XiBAPdMLftc0I.png",
+        "bytes":  2654
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/career-photo-01.png",
+        "source":  "https://framerusercontent.com/images/EZPdxHJFMQRxzqRvx1GyhvTTztU.png",
+        "bytes":  147785
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/projects-dot-pattern.png",
+        "source":  "https://framerusercontent.com/images/IVR70XJV7vRIiFf5RsXlpuLDkM.png",
+        "bytes":  157
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/prolens-social-preview.png",
+        "source":  "https://framerusercontent.com/images/jcEgeSJM5Jylv0kPle1DtWvoOkg.png",
+        "bytes":  301141
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/prolens-favicon.png",
+        "source":  "https://framerusercontent.com/images/KbZbWxgBUZkgXp7mwiuviYOyIZo.png",
+        "bytes":  1300
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-dot-pattern.png",
+        "source":  "https://framerusercontent.com/images/KNGnAQV1u3GmOl5ynSzUnVj6w.png",
+        "bytes":  157
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-logo-01.svg",
+        "source":  "https://framerusercontent.com/images/ljpd3dGQr9hzEvT4ISNsSor4.svg",
+        "bytes":  1604
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-preview-04.png",
+        "source":  "https://framerusercontent.com/images/M9Alz0dnKfJI9gFxhIR3RGQQ.png",
+        "bytes":  54847
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-company-logo-02.svg",
+        "source":  "https://framerusercontent.com/images/mpRJYAxju8IIL55U9FH1mRtWk.svg",
+        "bytes":  2570
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/blog-author-01.png",
+        "source":  "https://framerusercontent.com/images/Mwayvg5Fvw51sixvqOv4zkpR5g.png",
+        "bytes":  25491
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-avatar-03.png",
+        "source":  "https://framerusercontent.com/images/NGqKbziEvQJLiXadC5uPiUTNWXs.png",
+        "bytes":  7572
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-person-01.png",
+        "source":  "https://framerusercontent.com/images/nUEF7sWIOQ5on3F1MRzMzlBB7wc.png",
+        "bytes":  6044
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-logo-03.svg",
+        "source":  "https://framerusercontent.com/images/ppZh7PiVecsk99Tsn7RlFiyyiU.svg",
+        "bytes":  14751
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/blog-dot-pattern.png",
+        "source":  "https://framerusercontent.com/images/Q6nwutNYy6ElK9mwuS6t5V8iU.png",
+        "bytes":  157
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/about-message-card.png",
+        "source":  "https://framerusercontent.com/images/QqiRCHlTqdAIh7WL7Njj12ABbs.png",
+        "bytes":  9498
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-avatar-02.png",
+        "source":  "https://framerusercontent.com/images/rrKLf2rDX041AxrWDSQEiOKM4.png",
+        "bytes":  19556
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/contact-avatar.png",
+        "source":  "https://framerusercontent.com/images/rV4XUyJZSrbLuvnKKvNbXWHtPd0.png",
+        "bytes":  176032
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-preview-03.png",
+        "source":  "https://framerusercontent.com/images/RyT4xRnWJ2l9JAIZtMfMBxZo4Y.png",
+        "bytes":  86649
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-company-logo-01.svg",
+        "source":  "https://framerusercontent.com/images/THvEg4q9WjEWZVnQBhY4sQPIAxM.svg",
+        "bytes":  941
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-portrait-01.png",
+        "source":  "https://framerusercontent.com/images/UbipOH5I5aV4nPsrZfcpFBsLdg.png",
+        "bytes":  178281
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-logo-02.svg",
+        "source":  "https://framerusercontent.com/images/UMwWwKTOTamAIYsKqst0y3b4.svg",
+        "bytes":  3770
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/project-logo-01.svg",
+        "source":  "https://framerusercontent.com/images/vmtAmBvOlv7MadYyz3Dl2R3kZM.svg",
+        "bytes":  1391
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-person-03.png",
+        "source":  "https://framerusercontent.com/images/w8Y14LtxuZM6UPcoN4KZ2m18Q.png",
+        "bytes":  5540
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-preview-02.png",
+        "source":  "https://framerusercontent.com/images/wFKNFcUt7D7KAKJfteqktx1mXM.png",
+        "bytes":  75332
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/case-study-preview-04.png",
+        "source":  "https://framerusercontent.com/images/wWvXBPOoYr2ZcCu5oTcoGAEDHu8.png",
+        "bytes":  234801
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/hero-portrait-02.png",
+        "source":  "https://framerusercontent.com/images/wYrGKBrZz13yXbZdiNTnnpnXerQ.png",
+        "bytes":  3644
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/about-profile-photo.png",
+        "source":  "https://framerusercontent.com/images/yAG0hcslaT1HuLZqR7lvd2XKlBc.png",
+        "bytes":  24999
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/career-photo-02.png",
+        "source":  "https://framerusercontent.com/images/YbuCwyJttsm4vcOxLxzjRFbQP3U.png",
+        "bytes":  128034
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-company-logo-03.svg",
+        "source":  "https://framerusercontent.com/images/YHiUxSjJcZEFHgzZMEBhXI03Qjg.svg",
+        "bytes":  20614
+    },
+    {
+        "type":  "image",
+        "file":  "prolens-assets/images/testimonial-person-04.png",
+        "source":  "https://framerusercontent.com/images/zKnaE73KD9xLJY3cwhA0Co3kq5U.png",
+        "bytes":  5689
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/geist-cyrillic.woff2",
+        "source":  "https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwYGFWfOw.woff2",
+        "bytes":  14692
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/geist-latin-ext.woff2",
+        "source":  "https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwSGFWfOw.woff2",
+        "bytes":  15308
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/geist-latin.woff2",
+        "source":  "https://fonts.gstatic.com/s/geist/v4/gyByhwUxId8gMEwcGFU.woff2",
+        "bytes":  28400
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/5vvr9Vy74if2I6bQbJvbw7SY1pQ.woff2",
+        "bytes":  8896
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/EOr0mi4hNtlgWNn9if640EZzXCo.woff2",
+        "bytes":  7116
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/Y9k9QrlZAqio88Klkmbd8VoMQc.woff2",
+        "bytes":  4504
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/OYrD2tBIBPvoJXiIHnLoOXnY9M.woff2",
+        "bytes":  6652
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/JeYwfuaPfZHQhEG8U5gtPDZ7WQ.woff2",
+        "bytes":  25348
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/GrgcKwrN6d3Uz8EwcLHZxwEfC4.woff2",
+        "bytes":  27380
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-400-normal-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/b6Y37FthZeALduNqHicBT6FutY.woff2",
+        "bytes":  4168
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/mkY5Sgyq51ik0AMrSBwhm9DJg.woff2",
+        "bytes":  8716
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/X5hj6qzcHUYv7h1390c8Rhm6550.woff2",
+        "bytes":  6984
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/gQhNpS3tN86g8RcVKYUUaKt2oMQ.woff2",
+        "bytes":  4528
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/cugnVhSraaRyANCaUtI5FV17wk.woff2",
+        "bytes":  6572
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/5HcVoGak8k5agFJSaKa4floXVu0.woff2",
+        "bytes":  25276
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/rZ5DdENNqIdFTIyQQiP5isO7M.woff2",
+        "bytes":  27436
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-900-normal-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/P2Bw01CtL0b9wqygO0sSVogWbo.woff2",
+        "bytes":  4168
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/5A3Ce6C9YYmCjpQx9M4inSaKU.woff2",
+        "bytes":  8956
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/Qx95Xyt0Ka3SGhinnbXIGpEIyP4.woff2",
+        "bytes":  7176
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/6mJuEAguuIuMog10gGvH5d3cl8.woff2",
+        "bytes":  4644
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/xYYWaj7wCU5zSQH0eXvSaS19wo.woff2",
+        "bytes":  6676
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/otTaNuNpVK4RbdlT7zDDdKvQBA.woff2",
+        "bytes":  26264
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/UjlFhCnUjxhNfep4oYBPqnEssyo.woff2",
+        "bytes":  27996
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/DolVirEGb34pEXEp8t8FQBSK4.woff2",
+        "bytes":  4288
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/hyOgCu0Xnghbimh0pE8QTvtt2AU.woff2",
+        "bytes":  8908
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/NeGmSOXrPBfEFIy5YZeHq17LEDA.woff2",
+        "bytes":  7152
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/oYaAX5himiTPYuN8vLWnqBbfD2s.woff2",
+        "bytes":  4660
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/lEJLP4R0yuCaMCjSXYHtJw72M.woff2",
+        "bytes":  6668
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/cRJyLNuTJR5jbyKzGi33wU9cqIQ.woff2",
+        "bytes":  26280
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/yDtI2UI8XcEg1W2je9XPN3Noo.woff2",
+        "bytes":  28088
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/A0Wcc7NgXMjUuFdquHDrIZpzZw0.woff2",
+        "bytes":  4316
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/DpPBYI0sL4fYLgAkX8KXOPVt7c.woff2",
+        "bytes":  8892
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/4RAEQdEOrcnDkhHiiCbJOw92Lk.woff2",
+        "bytes":  7080
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/1K3W8DizY3v4emK8Mb08YHxTbs.woff2",
+        "bytes":  4628
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/tUSCtfYVM1I1IchuyCwz9gDdQ.woff2",
+        "bytes":  6672
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/VgYFWiwsAC5OYxAycRXXvhze58.woff2",
+        "bytes":  26076
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/syRNPWzAMIrcJ3wIlPIP43KjQs.woff2",
+        "bytes":  27900
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/GIryZETIX4IFypco5pYZONKhJIo.woff2",
+        "bytes":  4268
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-normal-latin-2.woff2",
+        "source":  "https://framerusercontent.com/assets/1ZFS7N918ojhhd0nQWdj3jz4w.woff2",
+        "bytes":  28004
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-normal-latin-2.woff2",
+        "source":  "https://framerusercontent.com/assets/DXD0Q7LSl7HEvDzucnyLnGBHM.woff2",
+        "bytes":  27992
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/H89BbHkbHDzlxZzxi8uPzTsp90.woff2",
+        "bytes":  9564
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/u6gJwDuwB143kpNK1T1MDKDWkMc.woff2",
+        "bytes":  7556
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/43sJ6MfOPh1LCJt46OvyDuSbA6o.woff2",
+        "bytes":  4960
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/wccHG0r4gBDAIRhfHiOlq6oEkqw.woff2",
+        "bytes":  7360
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/WZ367JPwf9bRW6LdTHN8rXgSjw.woff2",
+        "bytes":  27736
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/QxmhnWTzLtyjIiZcfaLIJ8EFBXU.woff2",
+        "bytes":  30200
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-700-italic-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/2A4Xx7CngadFGlVV4xrO06OBHY.woff2",
+        "bytes":  4236
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/vxBnBhH8768IFAXAb4Qf6wQHKs.woff2",
+        "bytes":  9524
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/zSsEuoJdh8mcFVk976C05ZfQr8.woff2",
+        "bytes":  7540
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/b8ezwLrN7h2AUoPEENcsTMVJ0.woff2",
+        "bytes":  4948
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/mvNEIBLyHbscgHtwfsByjXUz3XY.woff2",
+        "bytes":  7332
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/6FI2EneKzM3qBy5foOZXey7coCA.woff2",
+        "bytes":  27624
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/qrVgiXNd6RuQjETYQiVQ9nqCk.woff2",
+        "bytes":  30128
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-600-italic-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/NHHeAKJVP0ZWHk5YZnQQChIsBM.woff2",
+        "bytes":  4276
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-normal-latin-2.woff2",
+        "source":  "https://framerusercontent.com/assets/d3tHnaQIAeqiE5hGcRw4mmgWYU.woff2",
+        "bytes":  28032
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-cyrillic-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/khkJkwSL66WFg8SX6Wa726c.woff2",
+        "bytes":  9600
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-cyrillic.woff2",
+        "source":  "https://framerusercontent.com/assets/0E7IMbDzcGABpBwwqNEt60wU0w.woff2",
+        "bytes":  7540
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-greek-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/NTJ0nQgIF0gcDelS14zQ9NR9Q.woff2",
+        "bytes":  4932
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-greek.woff2",
+        "source":  "https://framerusercontent.com/assets/QrcNhgEPfRl0LS8qz5Ln8olanl8.woff2",
+        "bytes":  7332
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-latin-ext.woff2",
+        "source":  "https://framerusercontent.com/assets/JEXmejW8mXOYMtt0hyRg811kHac.woff2",
+        "bytes":  27812
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-latin.woff2",
+        "source":  "https://framerusercontent.com/assets/ksvR4VsLksjpSwnC2fPgHRNMw.woff2",
+        "bytes":  30196
+    },
+    {
+        "type":  "font",
+        "file":  "prolens-assets/fonts/inter-500-italic-vietnamese.woff2",
+        "source":  "https://framerusercontent.com/assets/uy9s0iWuxiNnVt8EpTI3gzohpwo.woff2",
+        "bytes":  4220
+    }
+]
